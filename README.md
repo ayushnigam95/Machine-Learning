@@ -1,1 +1,6 @@
-# Machine-Learning: Coming soon by the end of April 2018 !
+# Machine-Learning
+
+# Index
+# 1. Predictive Classification  Model for PromotionalOffer in R
+
+
